@@ -7,7 +7,7 @@
 
 <img src="code.png"/>
 
-<p>You can see to print statments in the code which probably print "Please enter the correct password for flag:" and "That password is incorrect" which gave me the idea to just add some print statments with the other strings.</p>
+<p>You can see two print statments in the code which probably print "Please enter the correct password for flag:" and "That password is incorrect" which gave me the idea to just add some print statments with the other strings.</p>
 
 <img src="print.png"/>
 
