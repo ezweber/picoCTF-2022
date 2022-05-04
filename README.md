@@ -1,0 +1,2 @@
+<h1 align="center"><a href="https://picoctf.org">picoCTF</a> write ups</h1>
+<p>These are all my write ups for this year's (2022) picoCTF contest. I will be adding more as I make them. I placed 2785th this year with a score of 3400 points. This was my second time competing in picoCTF since I did the picoMini at the begining of the year.</p>
